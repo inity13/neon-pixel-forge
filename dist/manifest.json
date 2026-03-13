@@ -1,0 +1,103 @@
+{
+  "store": "pixel-forge",
+  "generated_at": "2026-03-13T07:35:44.168509+00:00",
+  "package_count": 12,
+  "packages": [
+    {
+      "product": "dungeon-tileset",
+      "zip_name": "dungeon-tileset-0a2a624aa828.zip",
+      "file_count": 8,
+      "size_bytes": 14925,
+      "sha256": "3ee8cef310cd1ad143230ba206b927fd059e93e5c44a848f5f9e248800c51976",
+      "fingerprint": "0a2a624aa828"
+    },
+    {
+      "product": "explosion-vfx-pack",
+      "zip_name": "explosion-vfx-pack-10447e11a6f0.zip",
+      "file_count": 8,
+      "size_bytes": 19898,
+      "sha256": "a94312ff4a78d34020f3b9a6eed8137367a39a2a5bd02ffdbbc1f0705d524001",
+      "fingerprint": "10447e11a6f0"
+    },
+    {
+      "product": "monster-bestiary-pack",
+      "zip_name": "monster-bestiary-pack-aa028a25dcce.zip",
+      "file_count": 8,
+      "size_bytes": 18306,
+      "sha256": "90f5d27ff37faa5ee2a3c2a29273a80fc7bbfae0812b2fb2d207835ba15f94bd",
+      "fingerprint": "aa028a25dcce"
+    },
+    {
+      "product": "nature-tileset-mega",
+      "zip_name": "nature-tileset-mega-1d0cfeecd9cf.zip",
+      "file_count": 8,
+      "size_bytes": 14925,
+      "sha256": "032fd43b022056de2e3d50f65c23948824dd189ec734eed2b949607ccb175ac5",
+      "fingerprint": "1d0cfeecd9cf"
+    },
+    {
+      "product": "pixel-font-pack",
+      "zip_name": "pixel-font-pack-48baf796c5ee.zip",
+      "file_count": 10,
+      "size_bytes": 20842,
+      "sha256": "eccf5c98c6d4c8354c70bb21739ba28f214483117cf4ff25d397299f3b883cbe",
+      "fingerprint": "48baf796c5ee"
+    },
+    {
+      "product": "pixel-forge-starter-bundle",
+      "zip_name": "pixel-forge-starter-bundle-f7ae6aba1fb7.zip",
+      "file_count": 3,
+      "size_bytes": 2703,
+      "sha256": "a5f7e2d712303ecdc4d9eba483a06bdfef15b1542784fe781248a72c3b0084f1",
+      "fingerprint": "f7ae6aba1fb7"
+    },
+    {
+      "product": "pixel-forge-ultimate-bundle",
+      "zip_name": "pixel-forge-ultimate-bundle-d44c6a56ba81.zip",
+      "file_count": 3,
+      "size_bytes": 3367,
+      "sha256": "9806458f4150b912b4ae4f62ec3984538180e3f0b6047ed6452b5e8702c0c7fd",
+      "fingerprint": "d44c6a56ba81"
+    },
+    {
+      "product": "pixel-weapons-collection",
+      "zip_name": "pixel-weapons-collection-2964e7a902d0.zip",
+      "file_count": 7,
+      "size_bytes": 13120,
+      "sha256": "8fc94b539b84b4236a70f47c2ed2d6bf1661370d1a00c73619100f5ab9129f07",
+      "fingerprint": "2964e7a902d0"
+    },
+    {
+      "product": "retro-platformer-kit",
+      "zip_name": "retro-platformer-kit-045151ade20d.zip",
+      "file_count": 9,
+      "size_bytes": 20215,
+      "sha256": "9a455f69cbf293d43c12316ad471f629f5b008523df5c57e73462a03163cef3c",
+      "fingerprint": "045151ade20d"
+    },
+    {
+      "product": "sci-fi-ui-kit",
+      "zip_name": "sci-fi-ui-kit-119a0896bd30.zip",
+      "file_count": 8,
+      "size_bytes": 16364,
+      "sha256": "ad1c3f44391aad548ce62376551330a6346c35c8953028d57a53277dc0934780",
+      "fingerprint": "119a0896bd30"
+    },
+    {
+      "product": "space-shooter-assets",
+      "zip_name": "space-shooter-assets-879890fd57de.zip",
+      "file_count": 9,
+      "size_bytes": 23828,
+      "sha256": "fe632fe63632d1c90dfb561ef6280f3df49fe34a52483d6c7daf36a451a555f8",
+      "fingerprint": "879890fd57de"
+    },
+    {
+      "product": "warrior-sprite-pack",
+      "zip_name": "warrior-sprite-pack-839d67422ba8.zip",
+      "file_count": 9,
+      "size_bytes": 18551,
+      "sha256": "6335fdaec9fb6c7459c1352f128ef6ff19e1554aa00b99e8a41924f52f749d30",
+      "fingerprint": "839d67422ba8"
+    }
+  ]
+}
